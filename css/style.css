@@ -3,11 +3,36 @@
     font-family: monospace;
     font-size: large;
 }
-ul {
+.headingul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-.indexHeading {
+h1 {
+    text-align: center;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    border-radius: 8px;
+    width: 400px;
+    height: auto;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.customeul {
+    display: inline-block;
+    list-style-type: square;
+    text-align: left;
+}
+.container {
+    text-align: center;
+}
+h2 {
     text-align: center;
 }
