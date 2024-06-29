@@ -1,0 +1,12 @@
+.index {
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+}
+ul {
+    list-style-type: none;
+    
+}
+.indexHeading {
+    text-align: center;
+}
