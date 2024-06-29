@@ -1,3 +1,7 @@
+.recipes {
+    background-color: rgba(211, 211, 211, 0.623);
+}
+
 .index {
     text-align: center;
     font-family: monospace;
@@ -13,6 +17,11 @@ h1 {
 }
 p {
     font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+    background-color: aquamarine;
+    border-radius: 4px;
+    padding-left: 10px;
+    text-wrap: pretty;
 }
 img {
     border-radius: 8px;
@@ -29,10 +38,23 @@ img {
     display: inline-block;
     list-style-type: square;
     text-align: left;
+    
 }
 .container {
     text-align: center;
+    background-color: cadetblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    color:floralwhite
 }
 h2 {
     text-align: center;
+    background-color: antiquewhite;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+ol {
+    text-wrap: pretty;
+    background-color: bisque;
+    font-family: monospace;
 }
